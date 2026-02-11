@@ -11,8 +11,5 @@
       "path": "/api/cron/daily",
       "schedule": "0 9 * * *"
     }
-  ],
-  "env": {
-    "MONGODB_URI": "@mongodb_uri"
-  }
+  ]
 }
